@@ -1,0 +1,18 @@
+[
+    {
+        "origin": "lax",
+        "destination": "ny",
+        "flight_number": "1234",
+        "departure": "1200",
+        "next_day": true,
+        "arrival": "1300"
+    },
+    {
+        "origin": "ny",
+        "destination": "vegas",
+        "flight_number": "2412",
+        "departure": "0011",
+        "next_day": false,
+        "arrival": "1234"
+    }
+]
