@@ -6,7 +6,7 @@ def main():
     flights = Flights(filename)
     
     while True:
-        print("\n*** TUFFY TITAN FLIGHT SCHEDULE MAIN MENU")
+        print("\n*** FLIGHT SCHEDULE MAIN MENU")
         print("1. Add flight")
         print("2. Print flight schedule")
         print("3. Set flight schedule filename")
